@@ -1,4 +1,4 @@
-puremvc-mini
+mini-as3-mvc
 ============
 
-make puremvc simple &amp; easy
+set up a simple & easy as3 mvc framework
